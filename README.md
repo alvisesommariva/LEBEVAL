@@ -11,7 +11,7 @@ The main folder contains several subfolders that lead to the wanted domain. In p
 as well as we analyse the Lebesgue constant for Least-Squares on
 - square,
 - disk.
-- 
+  
 Each folder contains:
 - "demo_basic.m" that is a basic demo for understanding how the Lebesgue costant estimator "lebconst_eval_*.m" works;
 - "demo_leb_*.m" makes all the experiments cited in the paper below.
